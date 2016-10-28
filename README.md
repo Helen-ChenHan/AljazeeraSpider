@@ -1,1 +1,3 @@
 # AljazeeraSpider
+
+scrapy crawl alj
